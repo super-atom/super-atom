@@ -6,4 +6,3 @@
 - 😐 : Me, Myself, and I 'JUSEOK TEMPEST LEE'
 - 🥶 : Frontend Developer 'SUPER-ATOM'
 - 🥰 : Visual Designer 'SUPER-ATOM'
-- 🥵 : Artist 'PSI666ART'
