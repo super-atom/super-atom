@@ -1,10 +1,10 @@
 ### 안녕하세요👋 웹 퍼블리셔 이주석입니다.
 
-- 🔭 현재 구직중입니다! 
+- NOW : 모바일웍스코리아 사원😎
 
 저는 이런 사람입니다 :
-- 😐 : Me, Myself, and I 'JUSEOK TEMPEST LEE'
-- 🥶 : Frontend Developer 'SUPER-ATOM'
+- 😐 : Me, Myself, and I 'JUSEOK LEE'
+- 🥰 : Frontend Developer 'SUPER-ATOM'
 - 🥰 : Visual Designer 'SUPER-ATOM'
 
 연락처 :
